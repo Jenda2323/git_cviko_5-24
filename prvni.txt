@@ -1,4 +1,4 @@
-prvni radek
+prvni radek master master master 
 druhy radek
 treti radek 
 ----------------
