@@ -1,5 +1,9 @@
 00000000000000
 
 function dbsave() {
+		if(podminka)
+{
+osetri ()
+}
 	save()
 }
